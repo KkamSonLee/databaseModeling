@@ -1,4 +1,4 @@
-# databaseModeling
+# DatabaseModeling
 
 # Data (IMDB) https://www.imdb.com/interfaces/
 
